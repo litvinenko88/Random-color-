@@ -1,0 +1,22 @@
+body{
+   background: #3b3b3b;
+}
+
+.heading{
+   font-size: 60px;
+   color: #ffffff;
+   text-align: center;
+}
+
+.text{
+   font-size: 60px;
+   color: #ffffff;
+   text-align: center;
+}
+
+.btn{
+   display: block;
+   margin: 0 auto;
+   padding: 10px 80px;
+   cursor: pointer;
+}
